@@ -60,7 +60,7 @@ h1{
     margin: 30px 40px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
-    border-left: 5px solid orangered;
+    
     
 }
 
@@ -80,3 +80,14 @@ h1{
     color: gray;
 }
 
+#web-development{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#fullstack-developer{
+    border-left: 5px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
