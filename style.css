@@ -55,6 +55,14 @@ h1{
     background-position: right;
 }
 
+.middle-background{
+    background-image: url(img/lej.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    height: 270px;
+    width: 100%;
+}
+
 .experiance-item{
     padding: 10px 20px;
     margin: 30px 40px;
@@ -91,3 +99,5 @@ h1{
     border-image: linear-gradient(orange, tomato);
     border-image-slice: 1;
 }
+
+
